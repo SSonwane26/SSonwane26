@@ -13,9 +13,9 @@ Here's a bit more about me:
 
 - **Data Analysis**
 - **Data Visualization**
+- **Data Integrity**
 - **Statistical Analysis**
 - **SQL & Database Management**
-- **Machine Learning**
 
 ## 📊 Projects
 
@@ -49,7 +49,7 @@ Here are some of the tools and technologies I work with:
 
 - **LinkedIn:** [@ssonwane26](https://www.linkedin.com/in/ssonwane26/)
 - **Twitter:** [@SSonwane26](https://x.com/SSonwane26)
-- **Portfolio:** [My Portfolio](https://yourportfolio.com)
+- **Portfolio:** [My Portfolio](https://ssonwane26.github.io/)
 
 ---
 
