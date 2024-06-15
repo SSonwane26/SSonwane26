@@ -1,6 +1,6 @@
 # Hi there, I'm Saurabh Sonwane 👋
 
-![](https://github.com/SSonwane26/Myspace/blob/main/Photos/Screenshot%202024-06-01%20134615.png)
+![Header](https://github.com/SSonwane26/SSonwane26.github.io/blob/main/images/Screenshot%202024-06-01%20134615.png)
 
 Welcome to my GitHub profile! 
 - 👀 I'm a Data Analyst, interested in deriving meaningful insight form seemingly insignificant information.
