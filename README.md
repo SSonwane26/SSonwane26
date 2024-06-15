@@ -44,7 +44,6 @@ Here are some of the tools and technologies I work with:
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
-
 ## 🌐 Let's Connect
 
 - **LinkedIn:** [@ssonwane26](https://www.linkedin.com/in/ssonwane26/)
@@ -54,6 +53,11 @@ Here are some of the tools and technologies I work with:
 ---
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SSonwane26&color=2a9d8f&style=flat-square&label=PROFILE+VIEWS&base=1000"/>
+</p>
+
 
 <!---
 SSonwane26/SSonwane26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
