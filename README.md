@@ -44,6 +44,19 @@ Here are some of the tools and technologies I work with:
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
+## 🏆 Achievements
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/sonwanesaurabh11">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <!---
+  <a href="https://leetcode.com/your_leetcode_username">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  --->
+</p>
+
 ## 🌐 Let's Connect
 
 - **LinkedIn:** [@ssonwane26](https://www.linkedin.com/in/ssonwane26/)
